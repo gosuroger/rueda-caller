@@ -1,0 +1,25 @@
+{
+  "id": "gente-de-zona-la-gozadera",
+  "title": "La Gozadera",
+  "artist": "Gente De Zona",
+  "audioPath": "tracks/Gente De Zona - La Gozadera.mp3",
+  "rhythmConfiguration": "measured",
+  "rhythmSettings": {
+    "bpm": 163.8349514563107,
+    "firstBeatSeconds": 2.379999999999999,
+    "countOffset": 0,
+    "tempoSegments": [
+      {
+        "startBeat": 0,
+        "timeSeconds": 2.379999999999999,
+        "bpm": 163.8349514563107
+      },
+      {
+        "startBeat": 24,
+        "timeSeconds": 11.16933333333333,
+        "bpm": 189.97632427190004
+      }
+    ]
+  },
+  "lastEightStartSeconds": 198.14000000000001
+}

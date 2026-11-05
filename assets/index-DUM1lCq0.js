@@ -25,12 +25,6 @@
             <button id="stop" class="icon-button" type="button" aria-label="Stop" title="Stop" disabled>
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h12v12H6z"/></svg>
             </button>
-            <button id="show-more-plan" class="icon-button list-button" type="button" aria-label="Pokaż pełną listę figur" title="Pokaż pełną listę figur" disabled>
-              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8" cy="6" r="3"/><path d="M3 21v-5a5 5 0 0 1 10 0v5M15 5l5-3M16 9h6M15 13l5 3"/></svg>
-            </button>
-          </div>
-          <p id="track-name" class="track-name">Nie wybrano utworu.</p>
-          <span id="current-count" class="current-count" aria-label="Aktualny count">—</span>
           <details id="volume-settings" class="rhythm-editor volume-settings">
             <summary class="icon-button edit-button" aria-label="Ustawienia głośności" title="Ustawienia głośności">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9h4l5-4v14l-5-4H3V9Zm13-1a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg>
@@ -50,6 +44,12 @@
               </div>
             </div>
           </details>
+          </div>
+          <p id="track-name" class="track-name">Nie wybrano utworu.</p>
+          <span id="current-count" class="current-count" aria-label="Aktualny count">—</span>
+          <button id="show-more-plan" class="icon-button list-button" type="button" aria-label="Pokaż pełną listę figur" title="Pokaż pełną listę figur" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8" cy="6" r="3"/><path d="M3 21v-5a5 5 0 0 1 10 0v5M15 5l5-3M16 9h6M15 13l5 3"/></svg>
+          </button>
           <button class="icon-button settings-button" type="button" aria-label="Ustawienia — w przygotowaniu" title="Ustawienia — w przygotowaniu" disabled>
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 3-.5 2.5-2 .8-2.1-1.2-2 3.5 2 1.6V12l-2 1.6 2 3.5 2.1-1.2 2 .8L10 21h4l.5-2.5 2-.8 2.1 1.2 2-3.5-2-1.6V12l2-1.6-2-3.5-2.1 1.2-2-.8L14 3Z"/><circle cx="12" cy="12" r="3"/></svg>
           </button>
