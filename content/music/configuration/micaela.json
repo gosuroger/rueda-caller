@@ -3,11 +3,18 @@
   "title": "Micaela",
   "artist": "La Sonora Carruseles",
   "audioPath": "tracks/La Sonora Carruseles - Micaela5.mp3",
-  "rhythmConfiguration": "basic",
   "rhythmSettings": {
-    "bpm": 179.5,
-    "firstBeatSeconds": 0,
+    "bpm": 179.74870084542002,
+    "firstBeatSeconds": 2.9493333333333327,
     "countOffset": 0,
-    "tempoSegments": [{ "startBeat": 0, "timeSeconds": 0, "bpm": 179.5 }]
-  }
+    "tempoSegments": [
+      {
+        "startBeat": 0,
+        "timeSeconds": 2.9493333333333327,
+        "bpm": 179.74870084542002
+      }
+    ]
+  },
+  "rhythmConfiguration": "measured",
+  "lastEightStartSeconds": 278
 }
