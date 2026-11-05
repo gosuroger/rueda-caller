@@ -1,0 +1,40 @@
+{
+  "id": "chan-chan",
+  "title": "Chan Chan",
+  "artist": "Buena Vista Social Club",
+  "audioPath": "tracks/Buena Vista Social Club - Chan Chan.mp3",
+  "rhythmSettings": {
+    "bpm": 160.1423487544484,
+    "firstBeatSeconds": 4.4799999999999995,
+    "countOffset": 0,
+    "tempoSegments": [
+      {
+        "startBeat": 0,
+        "timeSeconds": 4.4799999999999995,
+        "bpm": 160.1423487544484
+      },
+      {
+        "startBeat": 144,
+        "timeSeconds": 58.431999999999995,
+        "bpm": 163.82591428098624
+      },
+      {
+        "startBeat": 232,
+        "timeSeconds": 90.66133333333333,
+        "bpm": 167.04229086570336
+      },
+      {
+        "startBeat": 344,
+        "timeSeconds": 130.89066666666665,
+        "bpm": 165.69767441860458
+      },
+      {
+        "startBeat": 496,
+        "timeSeconds": 185.93066666666667,
+        "bpm": 167.91827977051173
+      }
+    ]
+  },
+  "rhythmConfiguration": "measured",
+  "lastEightStartSeconds": 243.10133333333332
+}

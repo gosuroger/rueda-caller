@@ -1,0 +1,66 @@
+id	name	difficulty	frequency	shout	variant	familyId	durationMode	durationBeats	startCount	announcementLeadBeats	role	allowedCombinationFigureIds	isTerminating	StartsFromGuapea	StartsFromDilequeNo	EndsWithDileQueNo	performerScope	rotatesRueda	recoveryBeats	enabled
+abanico	Abanico	2	3	Abanico			fixed	32	1	8	base		false	true	false	false	pair	false	0	true
+abrazo	Abrazo	1	3	Abrazo			fixed	4	1	8	base		false	true	false	false	rueda	false	4	true
+abrazo-reverso	Abrazo reverso	1	3	Abrazo reverso			fixed	8	1	8	base		false	true	false	false	rueda	false	0	true
+adios-con-la-prima	Adiós con la prima	2	3	Adiós con la prima			fixed	16	1	8	base		false	true	false	false	rueda	false	0	true
+adios-con-la-prima-doble	Adiós con la prima doble	2	3	Adiós con la prima doble			fixed	24	1	8	base		false	true	false	false	rueda	false	0	true
+adios-con-la-prima-familia	Adiós con la prima familia	2	3	Adiós con la prima familia			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+adios-con-la-prima-hermana	Adiós con la prima hermana	2	3	Adiós con la prima hermana			fixed	24	1	8	base		false	true	false	false	rueda	false	0	true
+agua	Agua	1	3	Agua			fixed	48	1	8	base		false	true	false	false	rueda	false	0	true
+al-reves	Al revés	3	3	Al revés			fixed	24	1	8	base		false	true	false	false	pair	true	0	true
+babosa	Babosa	2	3	Babosa			fixed	8	1	8	base		false	true	false	false	rueda	false	0	true
+benjamin	Benjamín	1	3	Benjamín			fixed	4	7	7	base		false	true	false	false	pair	false	0	true
+cadeneta	Cadeneta	3	3	Cadeneta			untilCancelled		1	8	base	cadeneta-dummy-1;cadeneta-basta	false	true	false	false	rueda	false	0	true
+cadeneta-basta	Cadeneta Basta	1	3	Basta			fixed	8	1	8	combination		true	true	false	false	rueda	false	0	true
+cadeneta-dummy-1	Cadeneta dummy 1	1	3	Cadeneta dummy 1			fixed	8	1	8	combination		false	true	false	false	rueda	false	0	true
+centro-habana	Centro Habana	3	3	Centro Habana			fixed	48	1	8	base		false	true	false	false	rueda	false	0	true
+dame	Dame	1	3	Dame			fixed	12	5	8	base		false	true	false	false	rueda	false	0	true
+dame-dos	Dame dos	1	3	Dame dos			fixed	12	5	8	base		false	true	false	false	rueda	false	0	true
+dame-dos-con-dos	Dame dos con dos	1	3	Dame dos con dos			fixed	12	5	8	base		false	true	false	false	rueda	false	0	true
+dame-dos-con-uno	Dame dos con uno	1	3	Dame dos con uno			fixed	12	5	8	base		false	true	false	false	rueda	false	0	true
+de-frente	De frente	5	3	De frente			fixed	48	1	8	base		false	true	false	false	rueda	false	0	true
+directo	Directo	1	3	Directo			fixed	8	1	8	base		false	true	false	false	rueda	false	0	true
+echo	Echo	1	3	Echo			fixed	16	1	8	base		false	true	false	false	pair	false	0	true
+elegante	Elegante	2	3	Elegante			fixed	16	1	8	base		false	true	false	false	rueda	false	0	true
+enchufla	Enchufla	1	3	Enchufla			fixed	16	1	8	base		false	true	false	false	rueda	false	0	true
+enchufla-alarde	Enchufla alarde	1	3	Enchufla alarde			fixed	16	1	8	base		false	true	false	false	pair	false	0	true
+enchufla-doble	Enchufla doble	1	3	Enchufla doble			fixed	24	1	8	base		false	true	false	false	rueda	false	0	true
+enchufla-doble-sorpresa	Enchufla doble sorpresa	2	3	Enchufla doble sorpresa			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+enchufla-exhibela	Enchufla exhíbela	1	3	Enchufla exhíbela			fixed	24	1	8	base		false	true	false	false	pair	false	0	true
+enchufla-new-york	Enchufla New York	2	3	Enchufla New York			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+enchufla-sientala	Enchufla siéntala	1	3	Enchufla siéntala			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+giro	Giro	1	3	Giro			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+mosquito	Mosquito	1	3	Mosquito			fixed	1	1	8	base		false	true	false	false	pair	false	0	true
+mosquito-complicado	Mosquito complicado	1	3	Mosquito complicado			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+mosquito-doble	Mosquito doble	1	3	Mosquito doble			fixed	2	1	8	base		false	true	false	false	pair	false	0	true
+mosquito-loco	Mosquito loco	1	3	Mosquito loco			fixed	16	1	8	base		false	true	false	false	rueda	false	0	true
+mosquito-masalta	Mosquito Masalta	1	3	Mosquito Masalta			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+mosquito-triple	Mosquito triple	1	3	Mosquito triple			fixed	3	1	8	base		false	true	false	false	pair	false	0	true
+nudo-cubano	Nudo Cubano	3	3	Nudo Cubano			fixed	40	1	8	base		false	true	false	false	pair	false	0	true
+ocho	Ocho	2	3	Ocho			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+ocho-arriba	Ocho arriba	2	3	Ocho arriba			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+ocho-para-los-dos	Ocho para los dos	2	3	Ocho para los dos			fixed	24	1	8	base		false	true	false	false	rueda	false	0	true
+ocho-para-mujeres	Ocho para mujeres	2	3	Ocho para mujeres			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+ocho-para-mujeres-arriba	Ocho para mujeres arriba	2	3	Ocho para mujeres arriba			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
+olivia	Olivia	1	3	Olivia			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+olivia-doble	Olivia doble	1	3	Olivia doble			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+pami-pati	Pami - pati	2	3	Pami - pati			fixed	24	1	8	base		false	true	false	false	pair	false	0	true
+pami-pati-rueda	Pami pati rueda	3	3	Pami pati rueda			fixed	40	1	8	base		false	true	false	false	rueda	false	0	true
+panetera	Panetera	1	3	Panetera			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+ping-pong	Ping Pong	1	3	Ping Pong			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+ping-pong-reverso	Ping Pong reverso	1	3	Ping Pong reverso			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+pisa	Pisa	1	3	Pisa			fixed	1	5	8	base		false	true	false	false	pair	false	0	true
+pisa-bum	Pisa Bum	1	3	Pisa Bum			fixed	1	5	8	base		false	true	false	false	pair	false	0	true
+sacala	Sácala	2	3	Sácala			fixed	32	1	8	base		false	true	false	false	pair	false	0	true
+saludo	Saludo	1	3	Saludo			fixed	4	1	8	base		false	true	false	false	rueda	false	0	true
+saludo-reverso	Saludo Reverso	1	3	Saludo Reverso			fixed	8	1	8	base		false	true	false	false	rueda	false	0	true
+setenta	Setenta	2	3	Setenta			fixed	32	1	8	base		false	true	false	false	pair	false	0	true
+setenta-in-ters	Setenta in ters	2	3	Setenta in ters			fixed	46	1	8	base		false	true	false	false	pair	false	0	true
+sientala	Siéntala	1	3	Siéntala			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+siete	Siete	1	3	Siete			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
+sombrero	Sombrero	2	3	Sombrero			fixed	16	1	8	base		false	true	false	false	pair	false	0	true
+sombrero-complicado	Sombrero Complicado	2	3	Sombrero Complicado			fixed	40	1	8	base		false	true	false	false	pair	false	0	true
+sombrero-complicado-doble	Sombrero Complicado doble	2	3	Sombrero Complicado doble			fixed	40	1	8	base		false	true	false	false	pair	false	0	true
+sombrero-doble	Sombrero Doble	2	3	Sombrero Doble			fixed	32	1	8	base		false	true	false	false	pair	false	0	true
+vacilala	Vacílala	2	3	Vacílala			fixed	16	1	8	base		false	true	false	false	pair	false	0	true
+vacilala-bum-bum-ba	Vacílala bum bum ba	2	3	Vacílala bum bum ba			fixed	24	1	8	base		false	true	false	false	rueda	false	0	true

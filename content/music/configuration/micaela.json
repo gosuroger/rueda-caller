@@ -1,0 +1,13 @@
+{
+  "id": "micaela",
+  "title": "Micaela",
+  "artist": "La Sonora Carruseles",
+  "audioPath": "tracks/La Sonora Carruseles - Micaela5.mp3",
+  "rhythmConfiguration": "basic",
+  "rhythmSettings": {
+    "bpm": 179.5,
+    "firstBeatSeconds": 0,
+    "countOffset": 0,
+    "tempoSegments": [{ "startBeat": 0, "timeSeconds": 0, "bpm": 179.5 }]
+  }
+}
