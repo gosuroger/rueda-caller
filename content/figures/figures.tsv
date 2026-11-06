@@ -44,7 +44,7 @@ ocho-para-mujeres	Ocho para mujeres	2	3	Ocho para mujeres			fixed	32	1	8	base		f
 ocho-para-mujeres-arriba	Ocho para mujeres arriba	2	3	Ocho para mujeres arriba			fixed	32	1	8	base		false	true	false	false	rueda	false	0	true
 olivia	Olivia	1	3	Olivia			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
 olivia-doble	Olivia doble	1	3	Olivia doble			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
-pami-pati	Pami - pati	2	3	Pami - pati			fixed	24	1	8	base		false	true	false	false	pair	false	0	true
+pami-pati	Pami pati	2	3	Pami - pati			fixed	24	1	8	base		false	true	false	false	pair	false	0	true
 pami-pati-rueda	Pami pati rueda	3	3	Pami pati rueda			fixed	40	1	8	base		false	true	false	false	rueda	false	0	true
 panetera	Panetera	1	3	Panetera			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
 ping-pong	Ping Pong	1	3	Ping Pong			fixed	8	1	8	base		false	true	false	false	pair	false	0	true
